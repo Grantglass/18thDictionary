@@ -1,0 +1,218 @@
+{
+  "name": "Johnson's Dictionary",
+  "year": 1755,
+  "author": "Samuel Johnson",
+  "description": "Sample entries from 'A Dictionary of the English Language' (1755). These definitions are historically documented examples from Johnson's landmark dictionary.",
+  "entries": [
+    {
+      "headword": "lexicographer",
+      "definition": "A writer of dictionaries; a harmless drudge, that busies himself in tracing the original, and detailing the signification of words.",
+      "part_of_speech": "n.s.",
+      "etymology": "From Greek lexikon and grapho",
+      "examples": []
+    },
+    {
+      "headword": "oats",
+      "definition": "A grain, which in England is generally given to horses, but in Scotland supports the people.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon ata",
+      "examples": []
+    },
+    {
+      "headword": "patron",
+      "definition": "One who countenances, supports or protects. Commonly a wretch who supports with insolence, and is paid with flattery.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin patronus",
+      "examples": []
+    },
+    {
+      "headword": "pension",
+      "definition": "An allowance made to any one without an equivalent. In England it is generally understood to mean pay given to a state hireling for treason to his country.",
+      "part_of_speech": "n.s.",
+      "etymology": "French pension",
+      "examples": []
+    },
+    {
+      "headword": "excise",
+      "definition": "A hateful tax levied upon commodities, and adjudged not by the common judges of property, but wretches hired by those to whom excise is paid.",
+      "part_of_speech": "n.s.",
+      "etymology": "Dutch excijs",
+      "examples": []
+    },
+    {
+      "headword": "network",
+      "definition": "Any thing reticulated or decussated, at equal distances, with interstices between the intersections.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "enthusiasm",
+      "definition": "A vain belief of private revelation; a vain confidence of divine favour or communication.",
+      "part_of_speech": "n.s.",
+      "etymology": "Greek entheos, possessed by a god",
+      "examples": ["Enthusiasm is founded neither on reason nor divine revelation, but rises from the conceits of a warmed or overweening brain."]
+    },
+    {
+      "headword": "wit",
+      "definition": "The powers of the mind; the mental faculties; the intellect. This is the original signification.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon wit, witan, to know",
+      "examples": ["Great wit to madness near allied."]
+    },
+    {
+      "headword": "pastern",
+      "definition": "The knee of a horse.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "dull",
+      "definition": "Not exhilarating; not delightful; as, to make dictionaries is dull work.",
+      "part_of_speech": "adj.",
+      "etymology": "Saxon dol",
+      "examples": []
+    },
+    {
+      "headword": "novel",
+      "definition": "A small tale, generally of love.",
+      "part_of_speech": "n.s.",
+      "etymology": "Italian novella",
+      "examples": []
+    },
+    {
+      "headword": "garret",
+      "definition": "A room on the highest floor of the house.",
+      "part_of_speech": "n.s.",
+      "etymology": "French guarite",
+      "examples": []
+    },
+    {
+      "headword": "tory",
+      "definition": "One who adheres to the ancient constitution of the state, and the apostolical hierarchy of the church of England, opposed to a whig.",
+      "part_of_speech": "n.s.",
+      "etymology": "Irish toree, a savage",
+      "examples": []
+    },
+    {
+      "headword": "whig",
+      "definition": "The name of a faction.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": ["Whoever has a true value for church and state, should avoid the extremes of whig for the sake of the former, and the extremes of tory on the account of the latter."]
+    },
+    {
+      "headword": "essay",
+      "definition": "A loose sally of the mind; an irregular indigested piece; not a regular and orderly composition.",
+      "part_of_speech": "n.s.",
+      "etymology": "French essai",
+      "examples": []
+    },
+    {
+      "headword": "club",
+      "definition": "An assembly of good fellows, meeting under certain conditions.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "cough",
+      "definition": "A convulsion of the lungs, vellicated by some sharp serosity.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "imagination",
+      "definition": "Fancy; the power of forming ideal pictures; the power of representing things absent to one's self or others.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin imaginatio",
+      "examples": ["Imagination is of three kinds: joined with belief of that which is to come; joined with memory of that which is past; and of things present, or as if they were present."]
+    },
+    {
+      "headword": "genius",
+      "definition": "The protecting or ruling power of men, places, or things; mental power or faculties; disposition of nature by which any one is qualified for some peculiar employment; nature; disposition.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin genius",
+      "examples": []
+    },
+    {
+      "headword": "fame",
+      "definition": "Celebrity; renown; report; rumour.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin fama",
+      "examples": []
+    },
+    {
+      "headword": "hope",
+      "definition": "Expectation of some good; expectation indulged with pleasure.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon hopa",
+      "examples": []
+    },
+    {
+      "headword": "fear",
+      "definition": "Dread; horrour; painful apprehension of danger; anxiety.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon faer",
+      "examples": []
+    },
+    {
+      "headword": "love",
+      "definition": "The passion between the sexes; kindness; goodwill; friendship; fondness; concord.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon lufe",
+      "examples": []
+    },
+    {
+      "headword": "virtue",
+      "definition": "Moral goodness; efficacy; power; acting power; bravery; valour.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin virtus",
+      "examples": []
+    },
+    {
+      "headword": "nature",
+      "definition": "An imaginary being supposed to preside over the material and animal world; the native state or properties of any thing; the constitution of an animated body; disposition of mind; regular course of things; the compass of natural existence; natural affection, or reverence.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin natura",
+      "examples": []
+    },
+    {
+      "headword": "art",
+      "definition": "The power of doing something not taught by nature and instinct; a science; a trade; artfulness; cunning; skill; dexterity.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin ars",
+      "examples": []
+    },
+    {
+      "headword": "science",
+      "definition": "Knowledge; certainty grounded on demonstration; art attained by precepts, or built on principles; any art or species of knowledge.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin scientia",
+      "examples": []
+    },
+    {
+      "headword": "philosophy",
+      "definition": "Knowledge natural or moral; hypothesis or system upon which natural effects are explained; reasoning; argumentation; course of sciences read in the schools.",
+      "part_of_speech": "n.s.",
+      "etymology": "Greek philosophia",
+      "examples": []
+    },
+    {
+      "headword": "liberty",
+      "definition": "Freedom, as opposed to slavery; freedom, as opposed to necessity; privilege; exemption; permission.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin libertas",
+      "examples": []
+    },
+    {
+      "headword": "justice",
+      "definition": "The virtue by which we give to every man what is his due; vindictive retribution; right; rightfulness.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin justitia",
+      "examples": []
+    }
+  ]
+}

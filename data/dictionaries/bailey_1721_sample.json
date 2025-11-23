@@ -1,0 +1,218 @@
+{
+  "name": "Bailey's Dictionary",
+  "year": 1721,
+  "author": "Nathan Bailey",
+  "description": "Sample entries from 'An Universal Etymological English Dictionary' (1721). Bailey's dictionary was the most popular English dictionary before Johnson's.",
+  "entries": [
+    {
+      "headword": "lexicon",
+      "definition": "A Dictionary, or Book explaining hard Words.",
+      "part_of_speech": "n.",
+      "etymology": "Greek lexikon",
+      "examples": []
+    },
+    {
+      "headword": "oats",
+      "definition": "A sort of Grain well known.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon ate",
+      "examples": []
+    },
+    {
+      "headword": "patron",
+      "definition": "A Protector, a Defender; one who maintains or supports another.",
+      "part_of_speech": "n.",
+      "etymology": "Latin patronus",
+      "examples": []
+    },
+    {
+      "headword": "pension",
+      "definition": "A settled yearly Allowance for Maintenance.",
+      "part_of_speech": "n.",
+      "etymology": "French pension",
+      "examples": []
+    },
+    {
+      "headword": "excise",
+      "definition": "An inland Imposition upon several Commodities.",
+      "part_of_speech": "n.",
+      "etymology": "Dutch excijs",
+      "examples": []
+    },
+    {
+      "headword": "enthusiasm",
+      "definition": "An Inspiration, or extraordinary Emotion of the Mind, particularly that which Poets are said to be possess'd with, when they compose Verses; also a vain Conceit of being inspired.",
+      "part_of_speech": "n.",
+      "etymology": "Greek entheos",
+      "examples": []
+    },
+    {
+      "headword": "wit",
+      "definition": "The Understanding; a Faculty of the Mind; also Fancy, or an Aptness to say pleasant Things.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon wit",
+      "examples": []
+    },
+    {
+      "headword": "network",
+      "definition": "Work made in the form of a Net.",
+      "part_of_speech": "n.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "novel",
+      "definition": "New, strange; also a short pleasant History or Tale.",
+      "part_of_speech": "adj. n.",
+      "etymology": "Latin novus",
+      "examples": []
+    },
+    {
+      "headword": "tory",
+      "definition": "A Name given to those who are for the Court and prerogative.",
+      "part_of_speech": "n.",
+      "etymology": "Irish",
+      "examples": []
+    },
+    {
+      "headword": "whig",
+      "definition": "A Name given to those who are against the Court.",
+      "part_of_speech": "n.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "essay",
+      "definition": "A Trial, Proof, or Attempt; also a short Treatise or Discourse.",
+      "part_of_speech": "n.",
+      "etymology": "French essai",
+      "examples": []
+    },
+    {
+      "headword": "club",
+      "definition": "A heavy Stick; also a Meeting of several Persons for Diversion.",
+      "part_of_speech": "n.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "imagination",
+      "definition": "The Power of the Mind whereby it represents to itself Things absent; also a Fancy or Notion.",
+      "part_of_speech": "n.",
+      "etymology": "Latin imaginatio",
+      "examples": []
+    },
+    {
+      "headword": "genius",
+      "definition": "A good or evil Spirit or Angel that is supposed to attend upon every Person; also a natural Inclination or Disposition of Mind.",
+      "part_of_speech": "n.",
+      "etymology": "Latin genius",
+      "examples": []
+    },
+    {
+      "headword": "fame",
+      "definition": "Report, Rumour, Renown.",
+      "part_of_speech": "n.",
+      "etymology": "Latin fama",
+      "examples": []
+    },
+    {
+      "headword": "hope",
+      "definition": "The Expectation of some future Good.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon hopa",
+      "examples": []
+    },
+    {
+      "headword": "fear",
+      "definition": "A Passion of the Mind, caused by the Apprehension of some Evil to come.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon faer",
+      "examples": []
+    },
+    {
+      "headword": "love",
+      "definition": "An Affection of the Mind towards some Object; also Friendship, Charity.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon lufe",
+      "examples": []
+    },
+    {
+      "headword": "virtue",
+      "definition": "A Habit of the Mind conformable to right Reason; also Courage, Power, Efficacy.",
+      "part_of_speech": "n.",
+      "etymology": "Latin virtus",
+      "examples": []
+    },
+    {
+      "headword": "nature",
+      "definition": "The essential Property of a Thing; also the Course of Things; also Disposition or Temper.",
+      "part_of_speech": "n.",
+      "etymology": "Latin natura",
+      "examples": []
+    },
+    {
+      "headword": "art",
+      "definition": "Skill or Knowledge in any thing; also Trade or Occupation; also Cunning, Craft.",
+      "part_of_speech": "n.",
+      "etymology": "Latin ars",
+      "examples": []
+    },
+    {
+      "headword": "science",
+      "definition": "Knowledge, Learning; a Body of Arts or Rules relating to some particular Subject.",
+      "part_of_speech": "n.",
+      "etymology": "Latin scientia",
+      "examples": []
+    },
+    {
+      "headword": "philosophy",
+      "definition": "The Knowledge of natural and moral Things, and their Causes.",
+      "part_of_speech": "n.",
+      "etymology": "Greek philosophia",
+      "examples": []
+    },
+    {
+      "headword": "liberty",
+      "definition": "Freedom from Slavery, Captivity, or Restraint; also Privilege, Leave.",
+      "part_of_speech": "n.",
+      "etymology": "Latin libertas",
+      "examples": []
+    },
+    {
+      "headword": "justice",
+      "definition": "One of the four Cardinal Virtues; also Equity, Right; also the Power of executing Laws.",
+      "part_of_speech": "n.",
+      "etymology": "Latin justitia",
+      "examples": []
+    },
+    {
+      "headword": "dictionary",
+      "definition": "A Book that explains the Words of any Language alphabetically.",
+      "part_of_speech": "n.",
+      "etymology": "Latin dictionarium",
+      "examples": []
+    },
+    {
+      "headword": "grammar",
+      "definition": "The Art of speaking and writing a Language correctly.",
+      "part_of_speech": "n.",
+      "etymology": "Greek grammatike",
+      "examples": []
+    },
+    {
+      "headword": "etymology",
+      "definition": "The true Original or Derivation of a Word.",
+      "part_of_speech": "n.",
+      "etymology": "Greek etymologia",
+      "examples": []
+    },
+    {
+      "headword": "language",
+      "definition": "Speech, Tongue; also Style or manner of Expression.",
+      "part_of_speech": "n.",
+      "etymology": "French langue",
+      "examples": []
+    }
+  ]
+}

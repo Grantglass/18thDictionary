@@ -42,6 +42,7 @@ output/figures/*.png
 output/figures/*.pdf
 data/dictionaries/*.json
 !data/dictionaries/example_format.json
+!data/dictionaries/*_sample.json
 
 # Environment
 .env

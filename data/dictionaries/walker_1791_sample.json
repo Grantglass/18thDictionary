@@ -1,0 +1,218 @@
+{
+  "name": "Walker's Dictionary",
+  "year": 1791,
+  "author": "John Walker",
+  "description": "Sample entries from 'A Critical Pronouncing Dictionary and Expositor of the English Language' (1791). Walker's dictionary was influential for its focus on pronunciation and refined definitions.",
+  "entries": [
+    {
+      "headword": "lexicographer",
+      "definition": "The author of a dictionary; one whose employment is to write dictionaries.",
+      "part_of_speech": "n.",
+      "etymology": "Greek",
+      "examples": []
+    },
+    {
+      "headword": "oats",
+      "definition": "A grain of great use for the food of horses, and of the common people in the northern parts of Britain.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon",
+      "examples": []
+    },
+    {
+      "headword": "patron",
+      "definition": "One who protects, supports, or countenances; a guardian saint; an advocate; a defender.",
+      "part_of_speech": "n.",
+      "etymology": "Latin patronus",
+      "examples": []
+    },
+    {
+      "headword": "pension",
+      "definition": "A stated allowance to any person in consideration of past services.",
+      "part_of_speech": "n.",
+      "etymology": "French",
+      "examples": []
+    },
+    {
+      "headword": "excise",
+      "definition": "A tax levied upon commodities.",
+      "part_of_speech": "n.",
+      "etymology": "Dutch",
+      "examples": []
+    },
+    {
+      "headword": "enthusiasm",
+      "definition": "Heat of imagination; violence of passion; elevation of fancy; exaltation of ideas.",
+      "part_of_speech": "n.",
+      "etymology": "Greek",
+      "examples": []
+    },
+    {
+      "headword": "wit",
+      "definition": "The power of combining heterogeneous ideas with quickness and propriety; a man of genius; a man of fancy.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon",
+      "examples": []
+    },
+    {
+      "headword": "network",
+      "definition": "Any thing made with interstices or decussations.",
+      "part_of_speech": "n.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "novel",
+      "definition": "A fictitious narrative in prose; a tale of adventures and love.",
+      "part_of_speech": "n.",
+      "etymology": "Italian",
+      "examples": []
+    },
+    {
+      "headword": "tory",
+      "definition": "A member of one of the two great political parties in Britain.",
+      "part_of_speech": "n.",
+      "etymology": "Irish",
+      "examples": []
+    },
+    {
+      "headword": "whig",
+      "definition": "A member of one of the two great political parties in Britain, opposed to the Tory.",
+      "part_of_speech": "n.",
+      "etymology": "Scottish",
+      "examples": []
+    },
+    {
+      "headword": "essay",
+      "definition": "A trial; an endeavour; a loose sally of the mind; an irregular piece.",
+      "part_of_speech": "n.",
+      "etymology": "French",
+      "examples": []
+    },
+    {
+      "headword": "club",
+      "definition": "A heavy stick; an assembly of companions meeting for some common purpose.",
+      "part_of_speech": "n.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "imagination",
+      "definition": "The power of forming ideal pictures; the power of representing absent things to ourselves and others; an idea; a fancy.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "genius",
+      "definition": "The power of invention; the peculiar character or disposition of men or nations; a man endowed with superior faculties.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "fame",
+      "definition": "Celebrity; renown; report; public estimation.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "hope",
+      "definition": "An expectation of good with some degree of probability.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon",
+      "examples": []
+    },
+    {
+      "headword": "fear",
+      "definition": "An apprehension of danger or pain; dread; anxiety; awe.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon",
+      "examples": []
+    },
+    {
+      "headword": "love",
+      "definition": "The passion between the sexes; tenderness; affection; kindness; good-will.",
+      "part_of_speech": "n.",
+      "etymology": "Saxon",
+      "examples": []
+    },
+    {
+      "headword": "virtue",
+      "definition": "Moral goodness; efficacy; excellence; bravery.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "nature",
+      "definition": "The system of the world; the regular course of things; disposition; constitution.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "art",
+      "definition": "The power of doing what is not taught by nature; a science; skill; trade; artifice.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "science",
+      "definition": "Knowledge; certainty grounded on demonstration; any branch of speculative knowledge.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "philosophy",
+      "definition": "Knowledge natural or moral; the study of natural or moral causes; reasoning; argumentation.",
+      "part_of_speech": "n.",
+      "etymology": "Greek",
+      "examples": []
+    },
+    {
+      "headword": "liberty",
+      "definition": "Freedom opposed to slavery; freedom opposed to necessity; privilege; permission.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "justice",
+      "definition": "The virtue by which we give every one their due; equity; vindictive retribution.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "dictionary",
+      "definition": "A book in which the words of a language are explained in alphabetical order.",
+      "part_of_speech": "n.",
+      "etymology": "Latin",
+      "examples": []
+    },
+    {
+      "headword": "grammar",
+      "definition": "The science of speaking or writing a language with propriety.",
+      "part_of_speech": "n.",
+      "etymology": "Greek",
+      "examples": []
+    },
+    {
+      "headword": "etymology",
+      "definition": "The descent or derivation of a word from its original.",
+      "part_of_speech": "n.",
+      "etymology": "Greek",
+      "examples": []
+    },
+    {
+      "headword": "language",
+      "definition": "Human speech; the speech of one nation as distinguished from others; style; expression.",
+      "part_of_speech": "n.",
+      "etymology": "French",
+      "examples": []
+    }
+  ]
+}
