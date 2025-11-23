@@ -1,0 +1,23 @@
+{
+  "name": "Example Dictionary",
+  "year": 1750,
+  "author": "Example Author",
+  "entries": [
+    {
+      "headword": "example",
+      "definition": "A pattern or model to be followed or imitated",
+      "part_of_speech": "n.",
+      "etymology": "From Latin exemplum",
+      "examples": [
+        "He set an example for others to follow."
+      ]
+    },
+    {
+      "headword": "word",
+      "definition": "A unit of language consisting of one or more spoken sounds",
+      "part_of_speech": "n.",
+      "etymology": "From Old English word",
+      "examples": []
+    }
+  ]
+}
