@@ -1,0 +1,154 @@
+{
+  "name": "Johnson's Dictionary (Curated)",
+  "year": 1755,
+  "author": "Samuel Johnson",
+  "description": "Curated selection of famous and frequently-cited entries from Johnson's Dictionary of the English Language (1755).",
+  "entries": [
+    {
+      "headword": "lexicographer",
+      "definition": "A writer of dictionaries; a harmless drudge, that busies himself in tracing the original, and detailing the signification of words.",
+      "part_of_speech": "n.s.",
+      "etymology": "λεξικὸν and γράφω",
+      "examples": []
+    },
+    {
+      "headword": "oats",
+      "definition": "A grain, which in England is generally given to horses, but in Scotland supports the people.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon ata",
+      "examples": []
+    },
+    {
+      "headword": "patron",
+      "definition": "One who countenances, supports or protects. Commonly a wretch who supports with insolence, and is paid with flattery.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin patronus",
+      "examples": []
+    },
+    {
+      "headword": "pension",
+      "definition": "An allowance made to any one without an equivalent. In England it is generally understood to mean pay given to a state hireling for treason to his country.",
+      "part_of_speech": "n.s.",
+      "etymology": "French pension",
+      "examples": []
+    },
+    {
+      "headword": "excise",
+      "definition": "A hateful tax levied upon commodities, and adjudged not by the common judges of property, but wretches hired by those to whom excise is paid.",
+      "part_of_speech": "n.s.",
+      "etymology": "Dutch excijs",
+      "examples": []
+    },
+    {
+      "headword": "dull",
+      "definition": "Not exhilarating; not delightful; as, to make dictionaries is dull work.",
+      "part_of_speech": "adj.",
+      "etymology": "Dutch dol; Teutonick dol",
+      "examples": []
+    },
+    {
+      "headword": "network",
+      "definition": "Any thing reticulated or decussated, at equal distances, with interstices between the intersections.",
+      "part_of_speech": "n.s.",
+      "etymology": "net and work",
+      "examples": []
+    },
+    {
+      "headword": "pastern",
+      "definition": "The knee of a horse.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": [
+        "This is wrong. The pastern is the part between the joint next the foot and the hoof."
+      ]
+    },
+    {
+      "headword": "enthusiasm",
+      "definition": "A vain belief of private revelation; a vain confidence of divine favour or communication.",
+      "part_of_speech": "n.s.",
+      "etymology": "ἐνθουσιασμὸς",
+      "examples": [
+        "Enthusiasm is founded neither on reason nor divine revelation, but rises from the conceits of a warmed or overweening brain. Locke."
+      ]
+    },
+    {
+      "headword": "tory",
+      "definition": "One who adheres to the antient constitution of the state, and the apostolical hierarchy of the church of England, opposed to a whig.",
+      "part_of_speech": "n.s.",
+      "etymology": "A cant term, derived, I suppose, from an Irish word signifying a savage",
+      "examples": []
+    },
+    {
+      "headword": "whig",
+      "definition": "The name of a faction.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": [
+        "Whoever has a true value for church and state, should avoid the extremes of whig for the sake of the former, and the extremes of tory on the account of the latter. Swift."
+      ]
+    },
+    {
+      "headword": "wit",
+      "definition": "The powers of the mind; the mental faculties; the intellect. This is the original signification.",
+      "part_of_speech": "n.s.",
+      "etymology": "Saxon ƿit",
+      "examples": []
+    },
+    {
+      "headword": "novel",
+      "definition": "A small tale, generally of love.",
+      "part_of_speech": "n.s.",
+      "etymology": "Italian novella",
+      "examples": []
+    },
+    {
+      "headword": "essay",
+      "definition": "A loose sally of the mind; an irregular indigested piece; not a regular and orderly composition.",
+      "part_of_speech": "n.s.",
+      "etymology": "French essai",
+      "examples": []
+    },
+    {
+      "headword": "imagination",
+      "definition": "Fancy; the power of forming ideal pictures; the power of representing things absent to one's self or others.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin imaginatio",
+      "examples": []
+    },
+    {
+      "headword": "genius",
+      "definition": "The protecting or ruling power of men, places, or things; mental power or faculties; disposition of nature by which any one is qualified for some peculiar employment; nature; disposition.",
+      "part_of_speech": "n.s.",
+      "etymology": "Latin genius",
+      "examples": []
+    },
+    {
+      "headword": "club",
+      "definition": "An assembly of good fellows, meeting under certain conditions.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "cough",
+      "definition": "A convulsion of the lungs, vellicated by some sharp serosity. It is pronounced coff.",
+      "part_of_speech": "n.s.",
+      "etymology": "",
+      "examples": []
+    },
+    {
+      "headword": "stockjobber",
+      "definition": "A low wretch who gets money by buying and selling shares in the funds.",
+      "part_of_speech": "n.s.",
+      "etymology": "stock and jobber",
+      "examples": []
+    },
+    {
+      "headword": "favourite",
+      "definition": "One chosen as a companion by his superiour; a mean wretch whose whole business is by any means to please.",
+      "part_of_speech": "n.s.",
+      "etymology": "French favori",
+      "examples": []
+    }
+  ]
+}

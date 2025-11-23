@@ -43,6 +43,11 @@ output/figures/*.pdf
 data/dictionaries/*.json
 !data/dictionaries/example_format.json
 !data/dictionaries/*_sample.json
+!data/dictionaries/*_curated.json
+!data/dictionaries/*_historical_subset.json
+
+# Raw downloaded data (large files)
+data/raw/
 
 # Environment
 .env
